@@ -1,13 +1,22 @@
 ---
 # Display name
+<<<<<<< HEAD
 title: Kaicheng Guo
+=======
+title: Yang Sunny
+>>>>>>> 7315f80 (修改主人公名称)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
+<<<<<<< HEAD
 first_name: Kaicheng
 last_name: Guo
+=======
+first_name: Yang
+last_name: Sunny
+>>>>>>> 7315f80 (修改主人公名称)
 
 # Pronouns (optional)
 pronouns: he/him
@@ -28,22 +37,30 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Brown University
+<<<<<<< HEAD
     url: https://ai.meta.com/
+=======
+    url: https://www.brown.edu/
+>>>>>>> 7315f80 (修改主人公名称)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
+<<<<<<< HEAD
     url: 'mailto:kaicheng guo@brown.edu'
+=======
+    url: 'mailto:yang.sunny@example.com'
+>>>>>>> 7315f80 (修改主人公名称)
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/yangsunny
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/yangsunny
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yangsunny/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=yangsunny
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
@@ -166,4 +183,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
+<<<<<<< HEAD
 Kaicheng Guo B.S. in Computer Science and Applied Mathematics (Honors).
+=======
+Yang Sunny is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Yang is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+>>>>>>> 7315f80 (修改主人公名称)
