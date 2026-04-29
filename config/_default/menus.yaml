@@ -22,11 +22,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-<<<<<<< HEAD
-  # - name: Teaching
-=======
-  #  9.23 减少栏目
-  #- name: Teaching
->>>>>>> 5a9c1ec (change name and role)
-  #  url: teaching/
-  #  weight: 40
+  - name: Teaching
+    url: teaching/
+    weight: 40
